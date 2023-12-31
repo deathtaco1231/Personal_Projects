@@ -1,4 +1,5 @@
 This is a personal repository containing folders of each project i have worked on/continue to work on and occasionally update. 
+
 Console Based Text Editor:
 - Basic text editing functions including parsing through lines, inserting text in between characters, adding and removing line breaks, etc.
 - Made in C, designed for use in Visual Studio
